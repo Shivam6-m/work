@@ -20,4 +20,4 @@ cout<<dectobinary(decNum)<<endl;
 
 
 return 0;
-}
+}//day5 update
